@@ -11,10 +11,6 @@
 > <br />
 > ✍ Currently, I am exploring new technologies and improving my coding skills.
 <br />
-> 🌟 I’m passionate about software development and always eager to learn new programming languages and technologies.
-> <br />
-> 🌟 I enjoy contributing to open-source projects and collaborating with other developers.
-<br />
 
 > 🛠 I have experience with several programming languages and technologies including C++, Java, Python,Php and JavaScript.
 > <br />
