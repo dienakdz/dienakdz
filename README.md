@@ -8,26 +8,16 @@
 </p>
 
 > ✍ I'm a Software Engineering student at the University of Information Technology and Communication Viet-Han.
+> <br />
 > ✍ Currently, I am exploring new technologies and improving my coding skills.
-
 <br />
-
 > 🌟 I’m passionate about software development and always eager to learn new programming languages and technologies.
+> <br />
 > 🌟 I enjoy contributing to open-source projects and collaborating with other developers.
-
-<br />
-
-> 🎯 My goal is to become a skilled software engineer and make meaningful contributions to the tech community.
-> 🎯 I am looking forward to opportunities to work on innovative projects and solve challenging problems.
-
-<br />
-
-> 💼 I have worked on various projects including web development and database management.
-> 💼 Check out my repositories to see some of the projects I’ve been working on!
-
 <br />
 
 > 🛠 I have experience with several programming languages and technologies including C++, Java, Python,Php and JavaScript.
+> <br />
 > 🛠 My toolkit also includes web development frameworks like Laravel and Wordpress, and tools for Git.
 
 <br />
