@@ -4,10 +4,31 @@
 
 <h2 align="center">Hi 👋, I'm Nguyễn Minh DIện</h2>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
 </p>
 
-> ✍ I'm a software developer at EFE Technology.
+> ✍ I'm a Software Engineering student at the University of Information Technology and Communication Viet-Han.
+> ✍ Currently, I am exploring new technologies and improving my coding skills.
+
+<br />
+
+> 🌟 I’m passionate about software development and always eager to learn new programming languages and technologies.
+> 🌟 I enjoy contributing to open-source projects and collaborating with other developers.
+
+<br />
+
+> 🎯 My goal is to become a skilled software engineer and make meaningful contributions to the tech community.
+> 🎯 I am looking forward to opportunities to work on innovative projects and solve challenging problems.
+
+<br />
+
+> 💼 I have worked on various projects including web development and database management.
+> 💼 Check out my repositories to see some of the projects I’ve been working on!
+
+<br />
+
+> 🛠 I have experience with several programming languages and technologies including C++, Java, Python,Php and JavaScript.
+> 🛠 My toolkit also includes web development frameworks like Laravel and Wordpress, and tools for Git.
 
 <br />
 
